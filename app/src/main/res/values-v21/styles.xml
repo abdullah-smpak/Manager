@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="ExpandeAppbar" parent="@android:style/TextAppearance.Material.Title">
+
+
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>

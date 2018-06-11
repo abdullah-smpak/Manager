@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "786316206016",
+    "firebase_url": "https://mysts-933f1.firebaseio.com",
+    "project_id": "mysts-933f1",
+    "storage_bucket": "mysts-933f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786316206016:android:5a31a9db0756a0a3",
+        "android_client_info": {
+          "package_name": "com.hellodoc.abdullah.hellodoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786316206016-a7a5bvmh6n5as1g1nvqjqkqopvplcse2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellodoc.abdullah.hellodoc",
+            "certificate_hash": "7657b73c051a05f8feb00355c3bb7e50591b0f29"
+          }
+        },
+        {
+          "client_id": "786316206016-htb8b2gfhqn4bkanunc0euvlc856d6dk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "786316206016-htb8b2gfhqn4bkanunc0euvlc856d6dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tCXbstWcQyz4FBwRLr0WiSS9J6n1Z30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786316206016-htb8b2gfhqn4bkanunc0euvlc856d6dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786316206016:android:5be05b713e6489b0",
+        "android_client_info": {
+          "package_name": "com.hellodoc.abdullah.hellodocserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786316206016-uiceukfc38t8uln5ibsf1d4lfpshgpkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellodoc.abdullah.hellodocserver",
+            "certificate_hash": "7657b73c051a05f8feb00355c3bb7e50591b0f29"
+          }
+        },
+        {
+          "client_id": "786316206016-htb8b2gfhqn4bkanunc0euvlc856d6dk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "786316206016-htb8b2gfhqn4bkanunc0euvlc856d6dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tCXbstWcQyz4FBwRLr0WiSS9J6n1Z30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786316206016-htb8b2gfhqn4bkanunc0euvlc856d6dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+
+
+    <ImageView
+        android:padding="10dp"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="370dp"
+        android:layout_height="150dp" />
+
+    <TextView
+
+        android:gravity="center_horizontal"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        android:text="Appointment Manager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15sp"
+        android:text="We Are Here To Serve You"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+
+    <info.hoang8f.widget.FButton
+
+        android:id="@+id/btnSignIn"
+        android:text="Sign In"
+        android:textColor="@android:color/white"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:buttonColor="#0c4fa6"
+        app:shadowColor="@android:color/black"
+        app:shadowHeight="5dp">
+
+    </info.hoang8f.widget.FButton>
+
+   
+
+</LinearLayout>
